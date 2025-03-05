@@ -66,21 +66,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## FINAL REMARKS ON MY REPO (STATS)
-
-![ Stats](https://github-readme-stats.vercel.app/api/pin/?username=Enzotech&repo=ENZO-MD&show_owner=true&theme=dark)
-
-
-
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
 ### HELP :
 **IF you need any help**
 - [**CLICK HERE**](https://wa.me/qr/5VAFEGQNG3SQM1)
