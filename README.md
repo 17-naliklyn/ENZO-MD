@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=₦₳Ⱡł₭ⱠɎ₦+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+N̶A̶L̶I̶K̶L̶Y̶N̶)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://i.ibb.co/PwHcqYz/IMG-20241211-WA0065.jpg" width="500" height="500" />
 
@@ -21,7 +21,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐄𝐍𝐙𝐎 𝐌𝐃 𝐁𝐎𝐓 
+## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐍𝐀𝐋𝐈𝐊𝐋𝐘𝐍 𝐌𝐃 𝐁𝐎𝐓 
 
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 
 
-## HOW TO GET ENZO MD BOT
+## HOW TO GET NALIKLYN MD BOT
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
