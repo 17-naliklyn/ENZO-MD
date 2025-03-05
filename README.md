@@ -21,26 +21,6 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑 𝐍𝐀𝐋𝐈𝐊𝐋𝐘𝐍 𝐌𝐃 𝐁𝐎𝐓 
-
-
-<p align="center">
-<a href="https://github.com/ENZOTECH2/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ENZOTECH2/ENZO-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-<p align='center'>
-</p>
-
- <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
-
-
-
-
-
-
 ## HOW TO GET NALIKLYN MD BOT
 
   
