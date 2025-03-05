@@ -81,3 +81,6 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
+### HELP :
+**IF you need any help**
+- [**CLICK HERE**](https://wa.me/qr/5VAFEGQNG3SQM1)
