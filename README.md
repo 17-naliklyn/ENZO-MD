@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=₦₳Ⱡł₭ⱠɎ₦+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+N̶A̶L̶I̶K̶L̶Y̶N̶)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=NALIKLYN+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+NALIKLYN)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://i.ibb.co/PwHcqYz/IMG-20241211-WA0065.jpg" width="500" height="500" />
 
